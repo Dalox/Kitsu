@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kistu", "Kistu.csproj", "{F355E9FE-640F-B9A8-88DF-DA1603EF908F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kistu.Editor", "Kistu.Editor.csproj", "{098653B4-F739-B229-E3B7-A0A8B3095A52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F355E9FE-640F-B9A8-88DF-DA1603EF908F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F355E9FE-640F-B9A8-88DF-DA1603EF908F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F355E9FE-640F-B9A8-88DF-DA1603EF908F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F355E9FE-640F-B9A8-88DF-DA1603EF908F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098653B4-F739-B229-E3B7-A0A8B3095A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098653B4-F739-B229-E3B7-A0A8B3095A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098653B4-F739-B229-E3B7-A0A8B3095A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098653B4-F739-B229-E3B7-A0A8B3095A52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
